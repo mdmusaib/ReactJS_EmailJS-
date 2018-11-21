@@ -17,3 +17,8 @@ DONT' FORGET TO UPDATE YOUR USERID,TEMPLATEID in mail.js file Otherwise it will 
 just follow the screenshot you will get an idea!!!!!!
 
 
+clone my app
+
+npm install
+
+npm start
